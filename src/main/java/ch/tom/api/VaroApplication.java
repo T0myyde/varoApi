@@ -8,5 +8,8 @@ public class VaroApplication {
 	public static void main(String[] args) {
 		org.springframework.boot.SpringApplication.run(VaroApplication.class);
 	}
+
+
+
 }
 
